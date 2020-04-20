@@ -1,0 +1,481 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPConnection.swift",
+      "line": 45,
+      "symbol": "LDAPConnection.isDuplicate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPServer.swift",
+      "line": 7,
+      "symbol": "LDAPServer.Schema.ldap",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPServer.swift",
+      "line": 7,
+      "symbol": "LDAPServer.Schema.ldaps",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPServer.swift",
+      "line": 8,
+      "symbol": "LDAPServer.Schema.cldap",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPServer.swift",
+      "line": 8,
+      "symbol": "LDAPServer.Schema.ldapi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/LDAPServer.swift",
+      "line": 9,
+      "symbol": "LDAPServer.Schema.custom(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/DistinguishedName.swift",
+      "line": 1,
+      "symbol": "DistinguishedName",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/LDAPObject.swift",
+      "line": 34,
+      "symbol": "LDAPObject.subscript(dynamicMember:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/LDAPValue.swift",
+      "line": 39,
+      "symbol": "FixedWidthInteger.ldapRaw",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/LDAPValue.swift",
+      "line": 41,
+      "symbol": "FixedWidthInteger.init(fromLDAPRaw:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/LDAPValue.swift",
+      "line": 59,
+      "symbol": "LosslessStringConvertible.ldapRaw",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/Models/LDAPValue.swift",
+      "line": 61,
+      "symbol": "LosslessStringConvertible.init(fromLDAPRaw:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/BaseObjectClass.swift",
+      "line": 9,
+      "symbol": "ObjectClassProtocol.IDPath",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 1,
+      "symbol": "GroupOfNamesProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 3,
+      "symbol": "GroupOfNamesProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 4,
+      "symbol": "GroupOfNamesProtocol.commonName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 7,
+      "symbol": "GroupOfNamesProtocol.member",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 9,
+      "symbol": "GroupOfNamesProtocol.organization",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 10,
+      "symbol": "GroupOfNamesProtocol.organizationalUnit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 11,
+      "symbol": "GroupOfNamesProtocol.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfNames.swift",
+      "line": 14,
+      "symbol": "GroupOfNames",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 1,
+      "symbol": "GroupOfUniqueNamesProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 3,
+      "symbol": "GroupOfUniqueNamesProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 4,
+      "symbol": "GroupOfUniqueNamesProtocol.commonName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 7,
+      "symbol": "GroupOfUniqueNamesProtocol.uniqueMember",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 9,
+      "symbol": "GroupOfUniqueNamesProtocol.organization",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 10,
+      "symbol": "GroupOfUniqueNamesProtocol.organizationalUnit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 11,
+      "symbol": "GroupOfUniqueNamesProtocol.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/GroupOfUniqueNames.swift",
+      "line": 14,
+      "symbol": "GroupOfUniqueNames",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 1,
+      "symbol": "InetOrgPersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 3,
+      "symbol": "InetOrgPersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 4,
+      "symbol": "InetOrgPersonProtocol.userID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 5,
+      "symbol": "InetOrgPersonProtocol.mail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 6,
+      "symbol": "InetOrgPersonProtocol.givenName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 7,
+      "symbol": "InetOrgPersonProtocol.displayName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 8,
+      "symbol": "InetOrgPersonProtocol.employeeNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/InetOrgPerson.swift",
+      "line": 11,
+      "symbol": "InetOrgPerson",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 1,
+      "symbol": "OrganizationalPersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 3,
+      "symbol": "OrganizationalPersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 4,
+      "symbol": "OrganizationalPersonProtocol.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 5,
+      "symbol": "OrganizationalPersonProtocol.organizationalUnit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 7,
+      "symbol": "OrganizationalPersonProtocol.street",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 8,
+      "symbol": "OrganizationalPersonProtocol.postalAddress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 9,
+      "symbol": "OrganizationalPersonProtocol.postalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/OrganizationalPerson.swift",
+      "line": 12,
+      "symbol": "OrganizationalPerson",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 1,
+      "symbol": "PersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 3,
+      "symbol": "PersonProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 4,
+      "symbol": "PersonProtocol.commonName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 5,
+      "symbol": "PersonProtocol.surname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 7,
+      "symbol": "PersonProtocol.givenName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 8,
+      "symbol": "PersonProtocol.initials",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 9,
+      "symbol": "PersonProtocol.fullName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 10,
+      "symbol": "PersonProtocol.preferredName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 11,
+      "symbol": "PersonProtocol.userID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 12,
+      "symbol": "PersonProtocol.userPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/Person.swift",
+      "line": 15,
+      "symbol": "Person",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 1,
+      "symbol": "ShadowAccountProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 3,
+      "symbol": "ShadowAccountProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 4,
+      "symbol": "ShadowAccountProtocol.userID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 6,
+      "symbol": "ShadowAccountProtocol.authPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 8,
+      "symbol": "ShadowAccountProtocol.shadowLastChange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 9,
+      "symbol": "ShadowAccountProtocol.shadowMin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 10,
+      "symbol": "ShadowAccountProtocol.shadowMax",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 11,
+      "symbol": "ShadowAccountProtocol.shadowInactive",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 12,
+      "symbol": "ShadowAccountProtocol.shadowWarning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/ShadowAccount.swift",
+      "line": 15,
+      "symbol": "ShadowAccount",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/TopObjectClass.swift",
+      "line": 1,
+      "symbol": "TopObjectClassProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector/Sources/SwiftDirector/ObjectClasses/TopObjectClass.swift",
+      "line": 3,
+      "symbol": "TopObjectClass",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/runners/2.169.0/work/SwiftDirector/SwiftDirector"
+}
