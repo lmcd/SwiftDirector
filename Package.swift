@@ -24,14 +24,7 @@ fileprivate extension Target {
         }
         return target(
             name: "CLDAP",
-            path: "Sources/CLDAPMac",
-            cSettings: [
-                .unsafeFlags(["-I\(openldapPath)/include"], .when(platforms: [.iOS, .tvOS, .watchOS, .macOS])),
-            ],
-            linkerSettings: [
-                .unsafeFlags(["-L\(openldapPath)/lib"], .when(platforms: [.iOS, .tvOS, .watchOS, .macOS])),
-                .linkedLibrary("ldap"),
-            ])
+            path: "Sources/CLDAPMac"
         #endif
     }
 }
