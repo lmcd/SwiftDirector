@@ -25,6 +25,7 @@ fileprivate extension Target {
         return target(
             name: "CLDAP",
             path: "Sources/CLDAPMac"
+        )
         #endif
     }
 }
